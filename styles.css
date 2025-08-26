@@ -143,7 +143,7 @@ h2 {
 
    /*alteraçao do botao acessibilidade*/
    .menu-acessibilidade{
-   positon: fixed;
+   position: fixed;
    top: 20rem;
    right:px;
    z-index: 1000;
